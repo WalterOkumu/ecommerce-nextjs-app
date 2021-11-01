@@ -1,0 +1,19 @@
+{
+  "name": "ecommerce-nextjs",
+  "version": "1.0.0",
+  "description": "Ecommerce Project built with NextJS",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "author": "Walter Okumu",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^12.0.2",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
