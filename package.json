@@ -13,6 +13,7 @@
   "author": "Walter Okumu",
   "license": "ISC",
   "dependencies": {
+    "@stripe/stripe-js": "^1.20.3",
     "axios": "^0.24.0",
     "gray-matter": "^4.0.3",
     "marked": "^3.0.8",
@@ -20,6 +21,7 @@
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-icons": "^4.3.1",
+    "stripe": "^8.186.0",
     "styled-components": "^5.3.3",
     "styled-normalize": "^8.0.7"
   },
