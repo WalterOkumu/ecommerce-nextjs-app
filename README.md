@@ -4,8 +4,8 @@
 
 ## Built With
 
-- Major languages - NextJS
-- Technologies used - VSCode
+- Major languages - JavaScript
+- Technologies used - VSCode, NextJS
 
 ## Getting Started
 
